@@ -1,7 +1,7 @@
 
-# 👋 Hello! Welcome to my Github profile.
+###Bem vindos ao meu GitHub ! :D
 
- My name is Grasielly R and my nickname is Grasy!
+ Eu sou a Grasielly Ribeiro, ou podem me chamar de Grasy !
 
 
 ## Tenho conhecimento em:
